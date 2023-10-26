@@ -1,6 +1,7 @@
 # Clash of Clans Bot
 
 **Author:** Hunter Ross
+
 **Contact:** hlross@umich.edu
 
 ## Overview
@@ -18,7 +19,6 @@ The Clash of Clans Bot is a utility designed to simplify the management of a Cla
 Before using this bot, ensure you have the following:
 
 - Python 3.6 or higher installed.
-- Required Python packages, as specified in the project's `requirements.txt`.
 
 ## License
 
