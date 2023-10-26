@@ -20,6 +20,8 @@ Before using this bot, ensure you have the following:
 
 - Python 3.6 or higher installed.
 
+- Create a file named coc.token in the project directory and place your Clash of Clans API token inside this file.
+
 ## License
 
 This project is licensed under the MIT License.
