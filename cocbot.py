@@ -6,10 +6,6 @@ import queue
 import requests
 import time
 
-token_path = 'coc.token'
-
-clan_tag = "%23JGJLULUG"
-
 class RequestManager:
     def __init__(self, request_period=60):
         self.request_queue = queue.Queue()
@@ -24,33 +20,39 @@ class RequestManager:
         printd("Adding request to queue")
         self.request_queue.put((url, header, func))
 
-    # Force the top process in the queue to run
-    def force_process_top(self):
-        if not self.request_queue.empty():
-            printd("Forcing the top process in the queue")
-            url, header, func = self.request_queue.get()
-            response = self.make_request(url, header)
-            func(response)
-            self.request_queue.task_done()
-
     def worker(self):
         printd("Starting worker")
         while True:
             if not self.request_queue.empty():
                 printd("Getting request from queue")
                 url, header, func = self.request_queue.get()
-                response = self.make_request(url, header)
-                func(response)
+                success, response = self.make_request(url, header)
+                if success:
+                    func(response)
+                else:
+                    printd(response)
                 self.request_queue.task_done()
             time.sleep(self.request_period)
 
     def make_request(self, url, header=None):
-        printd("Making request")
+        printd(f"Sending request to {url}")
         try:
             response = requests.get(url, headers=header)
-            return response.json()
+            #response.raise_for_status()  # Raise an exception if the response status code is not in the 200-299 range
+
+            if response.status_code == 404:
+                return False, f"404 {response.reason} {response.text}"
+
+            if response.text:  # Check if the response is not empty
+                try:
+                    return True, response.json()
+                except ValueError:
+                    return False, "Response is not valid JSON"
+            else:
+                return False, "Empty response"
+
         except requests.exceptions.RequestException as e:
-            return f"Request failed: {str(e)}"
+            return False, f"Request failed: {str(e)}"
 
 # rate limit is probably faster than 1 request per second. should be fine if you check data every hour or so. and check clan members specifically in a queue
 
@@ -58,60 +60,31 @@ class RequestManager:
 # need to account for people that leave clan. probably just delete them. no need to keep data.
 
 """
-{
-    'tag': '#PCYCQU2V', 
-    'name': 'mohadplayz', 
-    'role': 'member', 
-    'expLevel': 103, 
-    'league': {
-        'id': 29000009, 
-        'name': 'Gold League I', 
-        'iconUrls': {
-            'small': 'https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png', 
-            'tiny': 'https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png', 
-            'medium': 'https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png'
-            }
-        }, 
-    'trophies': 1772, 
-    'builderBaseTrophies': 2140, 
-    'versusTrophies': 2140, 
-    'clanRank': 42, 
-    'previousClanRank': 41, 
-    'donations': 0, 
-    'donationsReceived': 0, 
-    'playerHouse': {
-        'elements': [
-            {
-                'type': 'ground', 
-                'id': 82000002
-            }, {
-                'type': 'walls', 
-                'id': 82000049
-            }, {
-                'type': 'roof', 
-                'id': 82000010
-            }, {
-                'type': 'decoration', 
-                'id': 82000061
-        }]}, 
-    'builderBaseLeague': {
-        'id': 44000020, 
-        'name': 'Brass League III'
-    }}
+Basically, we need to track activity of clan members.
+We can ping the API every few minutes and see how often data changes. If data changes count them as active for 5 minutes. Add these minutes up over awhile
+and see how active the players are. Sort these and kick the least active players.
+Could also track "useful stats" such as donations.
+Could track base activity such as cumulative spells, cumulative hero levels, cumulative troop levels.
+Track capital gold contribution, capital gold looted, clan game points, clan war stars collected, elixir looted, gold looted, clan donations, multiplayer battles won, other stuff.
 """
+
+
 DEBUG = True
 def printd(str):
     if DEBUG: print("DEBUG: " + str)
 
-def main():
-    printd("Initialzing request mangaer")
-    manager = RequestManager(request_period=60)
+def jsonprint(json_obj):
+    print(json.dumps(json_obj, indent=2))
 
-    printd("Reading coc.token")
+def format_tag(tag_string):
+    return tag_string.replace("#", "%23")
+
+def read_token():
+    token_path = 'coc.token'
     try:
         with open(token_path, 'r') as file:
             # Use the 'token' variable for further processing, e.g., making API requests.
-            token = file.read()
+            return file.read()
     except FileNotFoundError:
         print(f"File '{token_path}' not found. Please make sure you create a file named coc.token containing your API token from developer.clashofclans.com")
         exit(1)
@@ -119,28 +92,66 @@ def main():
         print(f"An error occurred: {e}")
         exit(1)
 
+def main():
+
+    clan_tag = "#JGJLULUG"
+
+    printd("Initialzing request mangaer")
+    manager = RequestManager(request_period=1)
+
+    printd("Reading coc.token")
+    token = read_token()
     # Include JWT in the Request Header
-    headers = {
-        "Authorization": f"Bearer {token}",
-        'Content-type':'application/json'
-    }
-    manager.add_request(f"https://api.clashofclans.com/v1/clans/{clan_tag}/members", headers)
-    manager.force_process_top()
+    headers = {"Authorization": f"Bearer {token}"}
+
+    # This structure stores all of the data
+    member_data = {}
+
+    # Should take the output of /players/{member_tag}
+    def parse_member_data(data):
+        tag = data['tag']
+        if tag in member_data:
+            printd(f"{tag} exists in data structure")
+            ## already exists
+            ## need to detect any change. keep track of quite a few data points for this.
+            ## could keep track of useful stats that pertain to activity such as gold looted--or other similar metrics--and add append to histogram every new change.
+            ## could use this to graph and keep track of best members
+            return
+        ## doesn't exist. need to initialize 
+        printd(f"{tag} doesnt exist in data structure")
+        # need to set initial/joined time in data structure. should never change
+        member_data[tag] = {
+            "name": data['name'],
+            "townHallLevel": data['townHallLevel'], # could do time series for this
+            "expLevel": data['expLevel'], # could do time series for this
+            "trophies": data['trophies'], # could do time series for this
+            "warStars": data['warStars'], # could do time series for this
+            "builderHallLevel": data['builderHallLevel'], # coul
+            "builderBaseTrophies": data['builderBaseTrophies'],
+            "clanCapitalContributions": data['clanCapitalContributions']
+            ## need a function for searching through achievements. i don't think i can trust indexing by number. maybe i can?
+            ## need to add times for, joined, last seen, and last queried. 
+        }
+        return
+
+    # Should take the output of the /clans/{clan_tag}/members request
+    def request_members(data):
+        members = data['items']
+        for member in members:
+            # Fix member tag for API format
+            member_tag = format_tag(member['tag'])
+            manager.add_request(f"https://api.clashofclans.com/v1/players/{member_tag}", header=headers, func=parse_member_data)
+
+    # Fix formatting of clan tag for API
+    clan_tag = format_tag(clan_tag)
+    # Add request to the request manager. Call back function should do work
+    manager.add_request(f"https://api.clashofclans.com/v1/clans/{clan_tag}/members", header=headers, func=request_members) # should also use this to remove people who are no longer members
+    
+    while True:
+        pass
 
 
     """
-    # Make the API request
-    api_url = f"https://api.clashofclans.com/v1/clans/{clan_tag}/members"
-    response = requests.get(api_url, headers=headers)
-    request_time = int(time.time())
-
-    # Handle the API Response
-    if response.status_code == 200:
-        data = response.json()
-    else:
-        print(f"Request failed with status code: {response.status_code}")
-        exit(1)
-
     members = data['items']
 
     member_data = {}
