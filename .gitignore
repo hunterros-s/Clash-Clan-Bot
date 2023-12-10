@@ -1,2 +1,3 @@
 .env/
 coc.token
+__pycache__/
