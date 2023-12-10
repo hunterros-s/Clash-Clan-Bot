@@ -1,7 +1,7 @@
+#!/usr/bin/env python3
+
 from requestmanager import RequestManager
 from utils import *
-
-
 
 def main():
     # Read token from coc.token file
@@ -23,6 +23,8 @@ def main():
 
     members = m.request(f"https://api.clashofclans.com/v1/clans/{clan_tag}/members")
     jsonprint(members)
+
+    # create a TCP server where you can request the database shit from memory. save the stuff into a json every 5 minutes
 
 
 
