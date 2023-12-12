@@ -1,0 +1,59 @@
+#!/bin/bash
+
+set -Eeuo pipefail
+
+start() {
+    set +o pipefail
+    NPROCS=$(pgrep -f "python main.py" | wc -l)
+    set -o pipefail
+    if [ "$NPROCS" -gt 0 ]; then
+        echo "Data server already running"
+        exit 1
+    fi
+    echo "Starting data server..."
+    mkdir -p log
+    rm -f log/search.log
+    cd dataserver || exit
+    python main.py &> "../log/search.log" &
+}
+
+stop() {
+    echo "Stopping data server..."
+    pkill -f "python main.py" || true
+}
+
+status() {
+    set +o pipefail
+    NPROCS=$(pgrep -f "python main.py" | wc -l)
+    set -o pipefail
+    if [ "$NPROCS" -gt 0 ]; then
+        echo "Data server is running"
+        exit 0
+    else
+        echo "Data server is not running"
+        exit 1
+    fi
+}
+
+case "$1" in
+    start)
+        start
+        ;;
+    stop)
+        stop
+        ;;
+    restart)
+        echo "Restarting data server ..."
+        stop
+        start
+        ;;
+    status)
+        status
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+        ;;
+esac
+
+exit 0
