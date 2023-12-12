@@ -1,32 +1,24 @@
-#!/usr/bin/env python3
-
-from requestmanager import RequestManager
+from flask import Flask, Response
+import datacollect
 from utils import *
 
-def main():
-    # Read token from coc.token file
-    output("Reading coc.token")
-    token = read_token()
+import threading
 
-    # Format the clan tag
-    output("Formatting clan tag")
-    clan_tag = format_tag("#JGJLULUG")
+app = Flask(__name__)
 
-    # Create an instance of RequestManager
-    output("Creating request manager")
-    m = RequestManager()
+# Start a separate thread to update the dictionary
+update_thread = threading.Thread(target=datacollect.data_coroutine)
+update_thread.daemon = True
+update_thread.start()
 
-    # Set default header for requests using the token
-    output("Setting default header for requests")
-    m.set_header({"Authorization": f"Bearer {token}"})
+# TODO
+# 0. manage kicked/leaved players. remove them if they haven't been in the clan for over a week? not sure the criteria?
+# 2. Refactor everything in general, maybe new files? not sure. too difficult to read right now.
 
-
-    members = m.request(f"https://api.clashofclans.com/v1/clans/{clan_tag}/members")
-    jsonprint(members)
-
-    # create a TCP server where you can request the database shit from memory. save the stuff into a json every 5 minutes
-
-
+@app.route('/')
+def get_data():
+    pretty_json = json.dumps(datacollect.data, indent=4)  # Pretty print JSON with 4 spaces of indentation
+    return Response(pretty_json, mimetype='application/json')
 
 if __name__ == '__main__':
-    main()
+    app.run(debug=False)

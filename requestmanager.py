@@ -42,13 +42,29 @@ class RequestManager():
         """
         try:
             response = requests.get(url, headers=self.get_header(), timeout=timeout)
-
-            if response.text:  # Check if the response is not empty
-                try:
-                    return response.json()
-                except ValueError:
-                    output("ERROR: Response is not valid JSON")
+            
+            if response.status_code == 200:
+                if response.text:
+                    try:
+                        return response.json()
+                    except ValueError:
+                        raise ValueError("ERROR: Response is not valid JSON")
+                else:
+                    raise ValueError("ERROR: Got empty response")
             else:
-                output("ERROR: Got empty response")
+                raise requests.HTTPError(f"ERROR: Request failed with status code {response.status_code}")
         except requests.exceptions.RequestException as e:
-            output(f"ERROR: Request failed: {str(e)}")
+            error(f"Request failed: {str(e)}")
+
+# Need to parse reponse better:
+"""
+	
+Error: response status is 503
+
+Response body
+Download
+{
+  "reason": "inMaintenance",
+  "message": "API is currently in maintenance, please come back later"
+}
+"""
