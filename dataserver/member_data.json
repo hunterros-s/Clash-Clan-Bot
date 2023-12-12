@@ -1,0 +1,4734 @@
+{
+  "#G8J2PUU0": {
+    "name": "WINNER",
+    "firstSeen": 1702265642,
+    "lastSeen": 1702347104,
+    "lastQueried": 1702360892,
+    "role": "coLeader",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+    "townHallLevel": [
+      {
+        "time": 1702265642,
+        "value": 13
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265642,
+        "value": 4432
+      },
+      {
+        "time": 1702341598,
+        "value": 4459
+      },
+      {
+        "time": 1702347104,
+        "value": 4440
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265642,
+        "value": 172
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265642,
+        "value": 897742149
+      },
+      {
+        "time": 1702341598,
+        "value": 899068609
+      },
+      {
+        "time": 1702347104,
+        "value": 899977139
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265642,
+        "value": 956508133
+      },
+      {
+        "time": 1702341598,
+        "value": 958016186
+      },
+      {
+        "time": 1702347104,
+        "value": 959475688
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265642,
+        "value": 7049025
+      },
+      {
+        "time": 1702341598,
+        "value": 7070318
+      },
+      {
+        "time": 1702347104,
+        "value": 7085685
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265642,
+        "value": 4236
+      },
+      {
+        "time": 1702341598,
+        "value": 4240
+      },
+      {
+        "time": 1702347104,
+        "value": 4242
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265642,
+        "value": 35061
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265642,
+        "value": 64985
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265642,
+        "value": 926
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265642,
+        "value": 95835
+      }
+    ],
+    "builderHallLevel": 10,
+    "builderBaseTrophies": 2839,
+    "obstaclesRemoved": 6085,
+    "kingLevel": 65,
+    "queenLevel": 67,
+    "wardenLevel": 41
+  },
+  "#9CCP8PQ8P": {
+    "name": "BloodySunday",
+    "firstSeen": 1702265643,
+    "lastSeen": 1702350740,
+    "lastQueried": 1702360892,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265643,
+        "value": 13
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265643,
+        "value": 3960
+      },
+      {
+        "time": 1702341599,
+        "value": 3931
+      },
+      {
+        "time": 1702342715,
+        "value": 3946
+      },
+      {
+        "time": 1702345767,
+        "value": 3981
+      },
+      {
+        "time": 1702346104,
+        "value": 3954
+      },
+      {
+        "time": 1702348128,
+        "value": 3963
+      },
+      {
+        "time": 1702349273,
+        "value": 3942
+      },
+      {
+        "time": 1702350740,
+        "value": 3914
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265643,
+        "value": 161
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265643,
+        "value": 931712950
+      },
+      {
+        "time": 1702341599,
+        "value": 933018364
+      },
+      {
+        "time": 1702342715,
+        "value": 933877522
+      },
+      {
+        "time": 1702345767,
+        "value": 934577791
+      },
+      {
+        "time": 1702348128,
+        "value": 935751070
+      },
+      {
+        "time": 1702349273,
+        "value": 935946583
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265643,
+        "value": 890720624
+      },
+      {
+        "time": 1702341599,
+        "value": 891952711
+      },
+      {
+        "time": 1702342715,
+        "value": 892526223
+      },
+      {
+        "time": 1702345767,
+        "value": 893093133
+      },
+      {
+        "time": 1702348128,
+        "value": 893889018
+      },
+      {
+        "time": 1702349273,
+        "value": 894078437
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265643,
+        "value": 5247329
+      },
+      {
+        "time": 1702341599,
+        "value": 5257360
+      },
+      {
+        "time": 1702342715,
+        "value": 5262767
+      },
+      {
+        "time": 1702345767,
+        "value": 5272241
+      },
+      {
+        "time": 1702348128,
+        "value": 5284075
+      },
+      {
+        "time": 1702349273,
+        "value": 5286400
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265643,
+        "value": 3263
+      },
+      {
+        "time": 1702341599,
+        "value": 3266
+      },
+      {
+        "time": 1702342715,
+        "value": 3268
+      },
+      {
+        "time": 1702345767,
+        "value": 3270
+      },
+      {
+        "time": 1702348128,
+        "value": 3272
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265643,
+        "value": 18302
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265643,
+        "value": 60830
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265643,
+        "value": 814
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265643,
+        "value": 242467
+      }
+    ],
+    "builderHallLevel": 10,
+    "builderBaseTrophies": 3057,
+    "obstaclesRemoved": 3123,
+    "kingLevel": 37,
+    "queenLevel": 45,
+    "wardenLevel": 16
+  },
+  "#G0G22JJJ": {
+    "name": "tayo",
+    "firstSeen": 1702265644,
+    "lastSeen": 1702360226,
+    "lastQueried": 1702360893,
+    "role": "admin",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+    "townHallLevel": [
+      {
+        "time": 1702265644,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265644,
+        "value": 3605
+      },
+      {
+        "time": 1702341599,
+        "value": 3580
+      },
+      {
+        "time": 1702342222,
+        "value": 3594
+      },
+      {
+        "time": 1702347105,
+        "value": 3613
+      },
+      {
+        "time": 1702347795,
+        "value": 3596
+      },
+      {
+        "time": 1702349407,
+        "value": 3585
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265644,
+        "value": 156
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265644,
+        "value": 558246419
+      },
+      {
+        "time": 1702341599,
+        "value": 559096419
+      },
+      {
+        "time": 1702341911,
+        "value": 559751591
+      },
+      {
+        "time": 1702342222,
+        "value": 560419013
+      },
+      {
+        "time": 1702345768,
+        "value": 560835680
+      },
+      {
+        "time": 1702347105,
+        "value": 563335680
+      },
+      {
+        "time": 1702347795,
+        "value": 563421419
+      },
+      {
+        "time": 1702348129,
+        "value": 564221419
+      },
+      {
+        "time": 1702360226,
+        "value": 564426419
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265644,
+        "value": 566662033
+      },
+      {
+        "time": 1702341599,
+        "value": 567512033
+      },
+      {
+        "time": 1702341911,
+        "value": 568512033
+      },
+      {
+        "time": 1702342222,
+        "value": 568992340
+      },
+      {
+        "time": 1702345768,
+        "value": 569617340
+      },
+      {
+        "time": 1702347105,
+        "value": 572117340
+      },
+      {
+        "time": 1702347795,
+        "value": 572170126
+      },
+      {
+        "time": 1702348129,
+        "value": 572970126
+      },
+      {
+        "time": 1702360226,
+        "value": 573175126
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265644,
+        "value": 4454122
+      },
+      {
+        "time": 1702341599,
+        "value": 4462122
+      },
+      {
+        "time": 1702341911,
+        "value": 4472122
+      },
+      {
+        "time": 1702342222,
+        "value": 4477669
+      },
+      {
+        "time": 1702345768,
+        "value": 4488919
+      },
+      {
+        "time": 1702347105,
+        "value": 4513919
+      },
+      {
+        "time": 1702348129,
+        "value": 4521919
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265644,
+        "value": 2502
+      },
+      {
+        "time": 1702342222,
+        "value": 2503
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265644,
+        "value": 23802
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265644,
+        "value": 33200
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265644,
+        "value": 194
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265644,
+        "value": 607927
+      }
+    ],
+    "builderHallLevel": 8,
+    "builderBaseTrophies": 2918,
+    "obstaclesRemoved": 4142,
+    "kingLevel": 52,
+    "queenLevel": 63,
+    "wardenLevel": 25
+  },
+  "#2P0Y8UR8Y": {
+    "name": "lildik69",
+    "firstSeen": 1702265644,
+    "lastSeen": 1702352794,
+    "lastQueried": 1702360894,
+    "role": "coLeader",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+    "townHallLevel": [
+      {
+        "time": 1702265644,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265644,
+        "value": 3515
+      },
+      {
+        "time": 1702341599,
+        "value": 3505
+      },
+      {
+        "time": 1702345769,
+        "value": 3565
+      },
+      {
+        "time": 1702347106,
+        "value": 3544
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265644,
+        "value": 132
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265644,
+        "value": 364572168
+      },
+      {
+        "time": 1702345769,
+        "value": 365519230
+      },
+      {
+        "time": 1702352794,
+        "value": 365748230
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265644,
+        "value": 399609643
+      },
+      {
+        "time": 1702345769,
+        "value": 400237688
+      },
+      {
+        "time": 1702352794,
+        "value": 400424416
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265644,
+        "value": 3045358
+      },
+      {
+        "time": 1702345769,
+        "value": 3053126
+      },
+      {
+        "time": 1702352794,
+        "value": 3054366
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265644,
+        "value": 1401
+      },
+      {
+        "time": 1702345769,
+        "value": 1403
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265644,
+        "value": 4416
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265644,
+        "value": 24775
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265644,
+        "value": 239
+      },
+      {
+        "time": 1702352794,
+        "value": 243
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265644,
+        "value": 636875
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 3088,
+    "obstaclesRemoved": 683,
+    "kingLevel": 31,
+    "queenLevel": 40,
+    "wardenLevel": 18
+  },
+  "#PGQQY80J0": {
+    "name": "FearTheDivine",
+    "firstSeen": 1702265645,
+    "lastSeen": 1702360228,
+    "lastQueried": 1702360895,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+    "townHallLevel": [
+      {
+        "time": 1702265645,
+        "value": 13
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265645,
+        "value": 3398
+      },
+      {
+        "time": 1702341599,
+        "value": 3402
+      },
+      {
+        "time": 1702347107,
+        "value": 3408
+      },
+      {
+        "time": 1702348130,
+        "value": 3445
+      },
+      {
+        "time": 1702360228,
+        "value": 3451
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265645,
+        "value": 130
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265645,
+        "value": 495589761
+      },
+      {
+        "time": 1702341599,
+        "value": 496155765
+      },
+      {
+        "time": 1702347107,
+        "value": 496826246
+      },
+      {
+        "time": 1702348130,
+        "value": 498118932
+      },
+      {
+        "time": 1702360228,
+        "value": 498686089
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265645,
+        "value": 532339263
+      },
+      {
+        "time": 1702341599,
+        "value": 532885978
+      },
+      {
+        "time": 1702347107,
+        "value": 533781585
+      },
+      {
+        "time": 1702348130,
+        "value": 535105892
+      },
+      {
+        "time": 1702360228,
+        "value": 535692204
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265645,
+        "value": 3264042
+      },
+      {
+        "time": 1702341599,
+        "value": 3268528
+      },
+      {
+        "time": 1702347107,
+        "value": 3278527
+      },
+      {
+        "time": 1702348130,
+        "value": 3288704
+      },
+      {
+        "time": 1702360228,
+        "value": 3293838
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265645,
+        "value": 1062
+      },
+      {
+        "time": 1702341599,
+        "value": 1063
+      },
+      {
+        "time": 1702347107,
+        "value": 1064
+      },
+      {
+        "time": 1702348130,
+        "value": 1066
+      },
+      {
+        "time": 1702360228,
+        "value": 1067
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265645,
+        "value": 9125
+      },
+      {
+        "time": 1702341599,
+        "value": 9155
+      },
+      {
+        "time": 1702347107,
+        "value": 9165
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265645,
+        "value": 1350
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265645,
+        "value": 132
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265645,
+        "value": 176182
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2276,
+    "obstaclesRemoved": 3871,
+    "kingLevel": 45,
+    "queenLevel": 55,
+    "wardenLevel": 20
+  },
+  "#99QJ09YLG": {
+    "name": "WalterW",
+    "firstSeen": 1702265646,
+    "lastSeen": 1702347108,
+    "lastQueried": 1702360896,
+    "role": "coLeader",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+    "townHallLevel": [
+      {
+        "time": 1702265646,
+        "value": 14
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265646,
+        "value": 3353
+      },
+      {
+        "time": 1702341600,
+        "value": 3339
+      },
+      {
+        "time": 1702347108,
+        "value": 3325
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265646,
+        "value": 210
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265646,
+        "value": 1009427568
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265646,
+        "value": 1043077039
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265646,
+        "value": 8733562
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265646,
+        "value": 3169
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265646,
+        "value": 193254
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265646,
+        "value": 54100
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265646,
+        "value": 1035
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265646,
+        "value": 574324
+      }
+    ],
+    "builderHallLevel": 10,
+    "builderBaseTrophies": 2980,
+    "obstaclesRemoved": 8038,
+    "kingLevel": 51,
+    "queenLevel": 52,
+    "wardenLevel": 34
+  },
+  "#8L008JUCQ": {
+    "name": "Shanks",
+    "firstSeen": 1702265647,
+    "lastSeen": 1702360229,
+    "lastQueried": 1702360896,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+    "townHallLevel": [
+      {
+        "time": 1702265647,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265647,
+        "value": 3109
+      },
+      {
+        "time": 1702341600,
+        "value": 3205
+      },
+      {
+        "time": 1702346108,
+        "value": 3213
+      },
+      {
+        "time": 1702347109,
+        "value": 3200
+      },
+      {
+        "time": 1702351776,
+        "value": 3208
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265647,
+        "value": 150
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265647,
+        "value": 764461487
+      },
+      {
+        "time": 1702341600,
+        "value": 768164452
+      },
+      {
+        "time": 1702346108,
+        "value": 768681612
+      },
+      {
+        "time": 1702351776,
+        "value": 768739870
+      },
+      {
+        "time": 1702355542,
+        "value": 768855870
+      },
+      {
+        "time": 1702356208,
+        "value": 768959225
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265647,
+        "value": 744393334
+      },
+      {
+        "time": 1702341600,
+        "value": 748382307
+      },
+      {
+        "time": 1702346108,
+        "value": 748895495
+      },
+      {
+        "time": 1702351776,
+        "value": 749352597
+      },
+      {
+        "time": 1702355542,
+        "value": 749451173
+      },
+      {
+        "time": 1702356208,
+        "value": 749544773
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265647,
+        "value": 4131891
+      },
+      {
+        "time": 1702341600,
+        "value": 4169633
+      },
+      {
+        "time": 1702346108,
+        "value": 4175079
+      },
+      {
+        "time": 1702351776,
+        "value": 4179419
+      },
+      {
+        "time": 1702355542,
+        "value": 4180049
+      },
+      {
+        "time": 1702356208,
+        "value": 4180317
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265647,
+        "value": 1638
+      },
+      {
+        "time": 1702341600,
+        "value": 1644
+      },
+      {
+        "time": 1702346108,
+        "value": 1645
+      },
+      {
+        "time": 1702351776,
+        "value": 1646
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265647,
+        "value": 15801
+      },
+      {
+        "time": 1702347109,
+        "value": 15873
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265647,
+        "value": 11300
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265647,
+        "value": 180
+      },
+      {
+        "time": 1702356208,
+        "value": 182
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265647,
+        "value": 477549
+      }
+    ],
+    "builderHallLevel": 9,
+    "builderBaseTrophies": 3485,
+    "obstaclesRemoved": 1518,
+    "kingLevel": 53,
+    "queenLevel": 60,
+    "wardenLevel": 24
+  },
+  "#GC9V80QQ": {
+    "name": "Hunter",
+    "firstSeen": 1702265647,
+    "lastSeen": 1702355876,
+    "lastQueried": 1702360897,
+    "role": "leader",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+    "townHallLevel": [
+      {
+        "time": 1702265647,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265647,
+        "value": 3062
+      },
+      {
+        "time": 1702341600,
+        "value": 3183
+      },
+      {
+        "time": 1702344524,
+        "value": 3197
+      },
+      {
+        "time": 1702345772,
+        "value": 3193
+      },
+      {
+        "time": 1702347110,
+        "value": 3198
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265647,
+        "value": 158
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265647,
+        "value": 1016357150
+      },
+      {
+        "time": 1702341600,
+        "value": 1040310487
+      },
+      {
+        "time": 1702344524,
+        "value": 1042071232
+      },
+      {
+        "time": 1702345772,
+        "value": 1043906281
+      },
+      {
+        "time": 1702347110,
+        "value": 1046313076
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265647,
+        "value": 1009998022
+      },
+      {
+        "time": 1702341600,
+        "value": 1031617976
+      },
+      {
+        "time": 1702344524,
+        "value": 1033359862
+      },
+      {
+        "time": 1702345772,
+        "value": 1035468711
+      },
+      {
+        "time": 1702347110,
+        "value": 1037586452
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265647,
+        "value": 7411884
+      },
+      {
+        "time": 1702341600,
+        "value": 7605526
+      },
+      {
+        "time": 1702344524,
+        "value": 7619718
+      },
+      {
+        "time": 1702345772,
+        "value": 7634465
+      },
+      {
+        "time": 1702347110,
+        "value": 7663523
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265647,
+        "value": 2413
+      },
+      {
+        "time": 1702341600,
+        "value": 2436
+      },
+      {
+        "time": 1702344524,
+        "value": 2438
+      },
+      {
+        "time": 1702345772,
+        "value": 2440
+      },
+      {
+        "time": 1702347110,
+        "value": 2443
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265647,
+        "value": 19104
+      },
+      {
+        "time": 1702341600,
+        "value": 19107
+      },
+      {
+        "time": 1702355876,
+        "value": 19117
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265647,
+        "value": 29625
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265647,
+        "value": 195
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265647,
+        "value": 834447
+      }
+    ],
+    "builderHallLevel": 9,
+    "builderBaseTrophies": 2780,
+    "obstaclesRemoved": 4487,
+    "kingLevel": 59,
+    "queenLevel": 60,
+    "wardenLevel": 35
+  },
+  "#Q020V2UY9": {
+    "name": "WINNER2",
+    "firstSeen": 1702265648,
+    "lastSeen": 1702352798,
+    "lastQueried": 1702360898,
+    "role": "coLeader",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+    "townHallLevel": [
+      {
+        "time": 1702265648,
+        "value": 14
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265648,
+        "value": 3023
+      },
+      {
+        "time": 1702341601,
+        "value": 3049
+      },
+      {
+        "time": 1702352798,
+        "value": 3031
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265648,
+        "value": 105
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265648,
+        "value": 308273121
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265648,
+        "value": 314929889
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265648,
+        "value": 2121366
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265648,
+        "value": 717
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265648,
+        "value": 2096
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265648,
+        "value": 17325
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265648,
+        "value": 271
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265648,
+        "value": 34006
+      }
+    ],
+    "builderHallLevel": 5,
+    "builderBaseTrophies": 1613,
+    "obstaclesRemoved": 588,
+    "kingLevel": 22,
+    "queenLevel": 33,
+    "wardenLevel": 20
+  },
+  "#JY0LVR8C": {
+    "name": "Ghost",
+    "firstSeen": 1702265649,
+    "lastSeen": 1702360899,
+    "lastQueried": 1702360899,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+    "townHallLevel": [
+      {
+        "time": 1702265649,
+        "value": 13
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265649,
+        "value": 2906
+      },
+      {
+        "time": 1702341601,
+        "value": 2908
+      },
+      {
+        "time": 1702345773,
+        "value": 2933
+      },
+      {
+        "time": 1702356210,
+        "value": 2914
+      },
+      {
+        "time": 1702360899,
+        "value": 2964
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265649,
+        "value": 127
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265649,
+        "value": 103574827
+      },
+      {
+        "time": 1702341601,
+        "value": 104412917
+      },
+      {
+        "time": 1702360899,
+        "value": 104880330
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265649,
+        "value": 106218663
+      },
+      {
+        "time": 1702341601,
+        "value": 106873430
+      },
+      {
+        "time": 1702360899,
+        "value": 107724571
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265649,
+        "value": 841833
+      },
+      {
+        "time": 1702341601,
+        "value": 849290
+      },
+      {
+        "time": 1702360899,
+        "value": 859198
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265649,
+        "value": 530
+      },
+      {
+        "time": 1702341601,
+        "value": 532
+      },
+      {
+        "time": 1702360899,
+        "value": 534
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265649,
+        "value": 2150
+      },
+      {
+        "time": 1702341601,
+        "value": 2152
+      },
+      {
+        "time": 1702346110,
+        "value": 2182
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265649,
+        "value": 7400
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265649,
+        "value": 108
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265649,
+        "value": 397272
+      }
+    ],
+    "builderHallLevel": 9,
+    "builderBaseTrophies": 3170,
+    "obstaclesRemoved": 3625,
+    "kingLevel": 41,
+    "queenLevel": 40,
+    "wardenLevel": 20
+  },
+  "#PCQPRPG2": {
+    "name": "soap",
+    "firstSeen": 1702265650,
+    "lastSeen": 1702345439,
+    "lastQueried": 1702360899,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+    "townHallLevel": [
+      {
+        "time": 1702265650,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265650,
+        "value": 2890
+      },
+      {
+        "time": 1702341602,
+        "value": 2881
+      },
+      {
+        "time": 1702345439,
+        "value": 2899
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265650,
+        "value": 159
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265650,
+        "value": 373360026
+      },
+      {
+        "time": 1702341602,
+        "value": 373629612
+      },
+      {
+        "time": 1702345439,
+        "value": 373853411
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265650,
+        "value": 405310461
+      },
+      {
+        "time": 1702341602,
+        "value": 405779868
+      },
+      {
+        "time": 1702345439,
+        "value": 406007669
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265650,
+        "value": 3331454
+      },
+      {
+        "time": 1702341602,
+        "value": 3336857
+      },
+      {
+        "time": 1702345439,
+        "value": 3337491
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265650,
+        "value": 1396
+      },
+      {
+        "time": 1702341602,
+        "value": 1397
+      },
+      {
+        "time": 1702345439,
+        "value": 1398
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265650,
+        "value": 20878
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265650,
+        "value": 34885
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265650,
+        "value": 367
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265650,
+        "value": 217419
+      }
+    ],
+    "builderHallLevel": 9,
+    "builderBaseTrophies": 2920,
+    "obstaclesRemoved": 7376,
+    "kingLevel": 52,
+    "queenLevel": 57,
+    "wardenLevel": 34
+  },
+  "#YPRRRUG0": {
+    "name": "ryan",
+    "firstSeen": 1702265650,
+    "lastSeen": 1702352461,
+    "lastQueried": 1702360900,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+    "townHallLevel": [
+      {
+        "time": 1702265650,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265650,
+        "value": 2762
+      },
+      {
+        "time": 1702341602,
+        "value": 2768
+      },
+      {
+        "time": 1702346112,
+        "value": 2786
+      },
+      {
+        "time": 1702347113,
+        "value": 2770
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265650,
+        "value": 135
+      },
+      {
+        "time": 1702351101,
+        "value": 136
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265650,
+        "value": 354249413
+      },
+      {
+        "time": 1702341602,
+        "value": 354973576
+      },
+      {
+        "time": 1702346112,
+        "value": 355779863
+      },
+      {
+        "time": 1702351434,
+        "value": 355871863
+      },
+      {
+        "time": 1702352461,
+        "value": 355983863
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265650,
+        "value": 386539753
+      },
+      {
+        "time": 1702341602,
+        "value": 387328932
+      },
+      {
+        "time": 1702346112,
+        "value": 388237325
+      },
+      {
+        "time": 1702351434,
+        "value": 388352325
+      },
+      {
+        "time": 1702352461,
+        "value": 388464325
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265650,
+        "value": 2452526
+      },
+      {
+        "time": 1702341602,
+        "value": 2467617
+      },
+      {
+        "time": 1702346112,
+        "value": 2479028
+      },
+      {
+        "time": 1702351434,
+        "value": 2479152
+      },
+      {
+        "time": 1702352461,
+        "value": 2479762
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265650,
+        "value": 1347
+      },
+      {
+        "time": 1702341602,
+        "value": 1349
+      },
+      {
+        "time": 1702346112,
+        "value": 1350
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265650,
+        "value": 11194
+      },
+      {
+        "time": 1702352461,
+        "value": 11224
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265650,
+        "value": 18645
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265650,
+        "value": 531
+      },
+      {
+        "time": 1702351434,
+        "value": 533
+      },
+      {
+        "time": 1702352461,
+        "value": 536
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265650,
+        "value": 254062
+      }
+    ],
+    "builderHallLevel": 9,
+    "builderBaseTrophies": 3072,
+    "obstaclesRemoved": 4949,
+    "kingLevel": 46,
+    "queenLevel": 47,
+    "wardenLevel": 20
+  },
+  "#LPQ02UCR9": {
+    "name": "WINNER3",
+    "firstSeen": 1702265652,
+    "lastSeen": 1702347115,
+    "lastQueried": 1702360903,
+    "role": "coLeader",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+    "townHallLevel": [
+      {
+        "time": 1702265652,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265652,
+        "value": 2581
+      },
+      {
+        "time": 1702341602,
+        "value": 2559
+      },
+      {
+        "time": 1702347115,
+        "value": 2529
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265652,
+        "value": 90
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265652,
+        "value": 235914502
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265652,
+        "value": 248039495
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265652,
+        "value": 1468371
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265652,
+        "value": 589
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265652,
+        "value": 73
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265652,
+        "value": 11675
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265652,
+        "value": 223
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265652,
+        "value": 53950
+      }
+    ],
+    "builderHallLevel": 4,
+    "builderBaseTrophies": 1230,
+    "obstaclesRemoved": 456,
+    "kingLevel": 31,
+    "queenLevel": 47,
+    "wardenLevel": 20
+  },
+  "#LL299VL9Y": {
+    "name": "Not xtc",
+    "firstSeen": 1702265653,
+    "lastSeen": 1702355880,
+    "lastQueried": 1702360901,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+    "townHallLevel": [
+      {
+        "time": 1702265653,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265653,
+        "value": 2543
+      },
+      {
+        "time": 1702341602,
+        "value": 2563
+      },
+      {
+        "time": 1702347114,
+        "value": 2606
+      },
+      {
+        "time": 1702348493,
+        "value": 2626
+      },
+      {
+        "time": 1702352801,
+        "value": 2634
+      },
+      {
+        "time": 1702354178,
+        "value": 2658
+      },
+      {
+        "time": 1702355880,
+        "value": 2669
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265653,
+        "value": 110
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265653,
+        "value": 133006312
+      },
+      {
+        "time": 1702341602,
+        "value": 133787126
+      },
+      {
+        "time": 1702347114,
+        "value": 134637296
+      },
+      {
+        "time": 1702348493,
+        "value": 135182269
+      },
+      {
+        "time": 1702352801,
+        "value": 135247331
+      },
+      {
+        "time": 1702354178,
+        "value": 135530673
+      },
+      {
+        "time": 1702355880,
+        "value": 135736385
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265653,
+        "value": 135660861
+      },
+      {
+        "time": 1702341602,
+        "value": 136579034
+      },
+      {
+        "time": 1702347114,
+        "value": 137711928
+      },
+      {
+        "time": 1702348493,
+        "value": 138263466
+      },
+      {
+        "time": 1702352801,
+        "value": 138344408
+      },
+      {
+        "time": 1702354178,
+        "value": 138678193
+      },
+      {
+        "time": 1702355880,
+        "value": 138965929
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265653,
+        "value": 1045163
+      },
+      {
+        "time": 1702341602,
+        "value": 1060484
+      },
+      {
+        "time": 1702347114,
+        "value": 1073124
+      },
+      {
+        "time": 1702348493,
+        "value": 1077954
+      },
+      {
+        "time": 1702352801,
+        "value": 1081234
+      },
+      {
+        "time": 1702354178,
+        "value": 1085631
+      },
+      {
+        "time": 1702355880,
+        "value": 1089479
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265653,
+        "value": 388
+      },
+      {
+        "time": 1702341602,
+        "value": 392
+      },
+      {
+        "time": 1702347114,
+        "value": 396
+      },
+      {
+        "time": 1702348493,
+        "value": 397
+      },
+      {
+        "time": 1702352801,
+        "value": 398
+      },
+      {
+        "time": 1702354178,
+        "value": 399
+      },
+      {
+        "time": 1702355880,
+        "value": 400
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265653,
+        "value": 74
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265653,
+        "value": 250
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265653,
+        "value": 45
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265653,
+        "value": 2100
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 1646,
+    "obstaclesRemoved": 1023,
+    "kingLevel": 40,
+    "queenLevel": 40,
+    "wardenLevel": 14
+  },
+  "#9GQ9CVGJ": {
+    "name": "JPKID\u2122",
+    "firstSeen": 1702265653,
+    "lastSeen": 1702352462,
+    "lastQueried": 1702360902,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+    "townHallLevel": [
+      {
+        "time": 1702265653,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265653,
+        "value": 2538
+      },
+      {
+        "time": 1702346113,
+        "value": 2598
+      },
+      {
+        "time": 1702347113,
+        "value": 2623
+      },
+      {
+        "time": 1702352462,
+        "value": 2631
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265653,
+        "value": 146
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265653,
+        "value": 545188293
+      },
+      {
+        "time": 1702341603,
+        "value": 545794600
+      },
+      {
+        "time": 1702346113,
+        "value": 547505867
+      },
+      {
+        "time": 1702347113,
+        "value": 548730280
+      },
+      {
+        "time": 1702352462,
+        "value": 549454329
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265653,
+        "value": 525860985
+      },
+      {
+        "time": 1702341603,
+        "value": 526388399
+      },
+      {
+        "time": 1702346113,
+        "value": 527854868
+      },
+      {
+        "time": 1702347113,
+        "value": 528909805
+      },
+      {
+        "time": 1702352462,
+        "value": 529727329
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265653,
+        "value": 2650253
+      },
+      {
+        "time": 1702341603,
+        "value": 2654921
+      },
+      {
+        "time": 1702346113,
+        "value": 2670533
+      },
+      {
+        "time": 1702347113,
+        "value": 2685397
+      },
+      {
+        "time": 1702352462,
+        "value": 2695716
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265653,
+        "value": 2001
+      },
+      {
+        "time": 1702341603,
+        "value": 2002
+      },
+      {
+        "time": 1702346113,
+        "value": 2004
+      },
+      {
+        "time": 1702347113,
+        "value": 2006
+      },
+      {
+        "time": 1702352462,
+        "value": 2007
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265653,
+        "value": 15914
+      },
+      {
+        "time": 1702346113,
+        "value": 15954
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265653,
+        "value": 450
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265653,
+        "value": 437
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265653,
+        "value": 78400
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2497,
+    "obstaclesRemoved": 2334,
+    "kingLevel": 50,
+    "queenLevel": 46,
+    "wardenLevel": 21
+  },
+  "#LPYJVLVY9": {
+    "name": "dici",
+    "firstSeen": 1702265654,
+    "lastSeen": 1702347116,
+    "lastQueried": 1702360903,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+    "townHallLevel": [
+      {
+        "time": 1702265654,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265654,
+        "value": 2513
+      },
+      {
+        "time": 1702341603,
+        "value": 2491
+      },
+      {
+        "time": 1702347116,
+        "value": 2479
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265654,
+        "value": 122
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265654,
+        "value": 260094900
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265654,
+        "value": 253604028
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265654,
+        "value": 1649574
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265654,
+        "value": 679
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265654,
+        "value": 6072
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265654,
+        "value": 6720
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265654,
+        "value": 105
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265654,
+        "value": 18015
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 1887,
+    "obstaclesRemoved": 3026,
+    "kingLevel": 47,
+    "queenLevel": 49,
+    "wardenLevel": 20
+  },
+  "#PGYUJGYPU": {
+    "name": "little cookie",
+    "firstSeen": 1702265655,
+    "lastSeen": 1702347118,
+    "lastQueried": 1702360905,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+    "townHallLevel": [
+      {
+        "time": 1702265655,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265655,
+        "value": 2437
+      },
+      {
+        "time": 1702341604,
+        "value": 2373
+      },
+      {
+        "time": 1702347118,
+        "value": 2390
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265655,
+        "value": 132
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265655,
+        "value": 344465773
+      },
+      {
+        "time": 1702341604,
+        "value": 344819968
+      },
+      {
+        "time": 1702347118,
+        "value": 345273154
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265655,
+        "value": 333883313
+      },
+      {
+        "time": 1702341604,
+        "value": 334179494
+      },
+      {
+        "time": 1702347118,
+        "value": 334846436
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265655,
+        "value": 2192211
+      },
+      {
+        "time": 1702341604,
+        "value": 2195494
+      },
+      {
+        "time": 1702347118,
+        "value": 2204539
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265655,
+        "value": 1062
+      },
+      {
+        "time": 1702347118,
+        "value": 1064
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265655,
+        "value": 3245
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265655,
+        "value": 2575
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265655,
+        "value": 62
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265655,
+        "value": 277956
+      }
+    ],
+    "builderHallLevel": 8,
+    "builderBaseTrophies": 2746,
+    "obstaclesRemoved": 2386,
+    "kingLevel": 33,
+    "queenLevel": 52,
+    "wardenLevel": 15
+  },
+  "#PGCV89CYQ": {
+    "name": "Eugene",
+    "firstSeen": 1702265656,
+    "lastSeen": 1702347117,
+    "lastQueried": 1702360904,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+    "townHallLevel": [
+      {
+        "time": 1702265656,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265656,
+        "value": 2409
+      },
+      {
+        "time": 1702341603,
+        "value": 2399
+      },
+      {
+        "time": 1702347117,
+        "value": 2427
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265656,
+        "value": 132
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265656,
+        "value": 309714635
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265656,
+        "value": 317313741
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265656,
+        "value": 2156917
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265656,
+        "value": 742
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265656,
+        "value": 734
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265656,
+        "value": 1700
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265656,
+        "value": 55
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265656,
+        "value": 139780
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 2305,
+    "obstaclesRemoved": 4714,
+    "kingLevel": 47,
+    "queenLevel": 48,
+    "wardenLevel": 20
+  },
+  "#YJ8LY9LRJ": {
+    "name": "Tempest",
+    "firstSeen": 1702265656,
+    "lastSeen": 1702349754,
+    "lastQueried": 1702360906,
+    "role": "admin",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+    "townHallLevel": [
+      {
+        "time": 1702265656,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265656,
+        "value": 2370
+      },
+      {
+        "time": 1702341603,
+        "value": 2403
+      },
+      {
+        "time": 1702345779,
+        "value": 2381
+      },
+      {
+        "time": 1702349754,
+        "value": 2361
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265656,
+        "value": 114
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265656,
+        "value": 303055747
+      },
+      {
+        "time": 1702341603,
+        "value": 307459731
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265656,
+        "value": 320405205
+      },
+      {
+        "time": 1702341603,
+        "value": 324057149
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265656,
+        "value": 2018084
+      },
+      {
+        "time": 1702341603,
+        "value": 2060130
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265656,
+        "value": 694
+      },
+      {
+        "time": 1702341603,
+        "value": 699
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265656,
+        "value": 3723
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265656,
+        "value": 26275
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265656,
+        "value": 282
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265656,
+        "value": 267406
+      }
+    ],
+    "builderHallLevel": 8,
+    "builderBaseTrophies": 2203,
+    "obstaclesRemoved": 838,
+    "kingLevel": 34,
+    "queenLevel": 45,
+    "wardenLevel": 15
+  },
+  "#J8QJ2RY": {
+    "name": "q dubbs",
+    "firstSeen": 1702265657,
+    "lastSeen": 1702341604,
+    "lastQueried": 1702360907,
+    "role": "admin",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+    "townHallLevel": [
+      {
+        "time": 1702265657,
+        "value": 13
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265657,
+        "value": 2329
+      },
+      {
+        "time": 1702341604,
+        "value": 2319
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265657,
+        "value": 171
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265657,
+        "value": 211760522
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265657,
+        "value": 222760427
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265657,
+        "value": 1652610
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265657,
+        "value": 700
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265657,
+        "value": 5738
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265657,
+        "value": 37000
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265657,
+        "value": 232
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265657,
+        "value": 890337
+      },
+      {
+        "time": 1702341604,
+        "value": 906616
+      }
+    ],
+    "builderHallLevel": 10,
+    "builderBaseTrophies": 3636,
+    "obstaclesRemoved": 7373,
+    "kingLevel": 53,
+    "queenLevel": 51,
+    "wardenLevel": 40
+  },
+  "#G9VRV022P": {
+    "name": "Brutus",
+    "firstSeen": 1702265658,
+    "lastSeen": 1702350438,
+    "lastQueried": 1702360924,
+    "role": "coLeader",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+    "townHallLevel": [
+      {
+        "time": 1702265658,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265658,
+        "value": 2282
+      },
+      {
+        "time": 1702341604,
+        "value": 2301
+      },
+      {
+        "time": 1702343175,
+        "value": 2326
+      },
+      {
+        "time": 1702345790,
+        "value": 632
+      },
+      {
+        "time": 1702347137,
+        "value": 679
+      },
+      {
+        "time": 1702347472,
+        "value": 700
+      },
+      {
+        "time": 1702348163,
+        "value": 750
+      },
+      {
+        "time": 1702349305,
+        "value": 771
+      },
+      {
+        "time": 1702350438,
+        "value": 801
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265658,
+        "value": 105
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265658,
+        "value": 190243789
+      },
+      {
+        "time": 1702345790,
+        "value": 194523752
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265658,
+        "value": 203509168
+      },
+      {
+        "time": 1702345790,
+        "value": 206260251
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265658,
+        "value": 1475507
+      },
+      {
+        "time": 1702345790,
+        "value": 1493020
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265658,
+        "value": 588
+      },
+      {
+        "time": 1702345790,
+        "value": 590
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265658,
+        "value": 164
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265658,
+        "value": 12450
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265658,
+        "value": 141
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265658,
+        "value": 465318
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 2394,
+    "obstaclesRemoved": 175,
+    "kingLevel": 25,
+    "queenLevel": 37,
+    "wardenLevel": 4
+  },
+  "#RRCPYUVL": {
+    "name": "bankie",
+    "firstSeen": 1702265659,
+    "lastSeen": 1702352468,
+    "lastQueried": 1702360908,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+    "townHallLevel": [
+      {
+        "time": 1702265659,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265659,
+        "value": 2236
+      },
+      {
+        "time": 1702341604,
+        "value": 2226
+      },
+      {
+        "time": 1702345785,
+        "value": 2256
+      },
+      {
+        "time": 1702347120,
+        "value": 2281
+      },
+      {
+        "time": 1702352468,
+        "value": 2264
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265659,
+        "value": 122
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265659,
+        "value": 505256196
+      },
+      {
+        "time": 1702345785,
+        "value": 505835026
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265659,
+        "value": 591100619
+      },
+      {
+        "time": 1702345785,
+        "value": 591787545
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265659,
+        "value": 3053361
+      },
+      {
+        "time": 1702345785,
+        "value": 3066973
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265659,
+        "value": 1998
+      },
+      {
+        "time": 1702345785,
+        "value": 2000
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265659,
+        "value": 4032
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265659,
+        "value": 21270
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265659,
+        "value": 456
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265659,
+        "value": 148138
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2058,
+    "obstaclesRemoved": 3899,
+    "kingLevel": 28,
+    "queenLevel": 42,
+    "wardenLevel": 15
+  },
+  "#20RU2U0UV": {
+    "name": "stooart",
+    "firstSeen": 1702265659,
+    "lastSeen": 1702347124,
+    "lastQueried": 1702360911,
+    "role": "member",
+    "leagueImage": null,
+    "townHallLevel": [
+      {
+        "time": 1702265659,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265659,
+        "value": 2180
+      },
+      {
+        "time": 1702341605,
+        "value": 2168
+      },
+      {
+        "time": 1702347124,
+        "value": 2153
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265659,
+        "value": 129
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265659,
+        "value": 79989769
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265659,
+        "value": 86331503
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265659,
+        "value": 643580
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265659,
+        "value": 294
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265659,
+        "value": 9837
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265659,
+        "value": 29300
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265659,
+        "value": 120
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265659,
+        "value": 495011
+      }
+    ],
+    "builderHallLevel": 10,
+    "builderBaseTrophies": 3171,
+    "obstaclesRemoved": 1292,
+    "kingLevel": 41,
+    "queenLevel": 45,
+    "wardenLevel": 15
+  },
+  "#CVRLUVG2": {
+    "name": "amil1239",
+    "firstSeen": 1702265660,
+    "lastSeen": 1702341605,
+    "lastQueried": 1702360909,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265660,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265660,
+        "value": 2174
+      },
+      {
+        "time": 1702341605,
+        "value": 2178
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265660,
+        "value": 125
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265660,
+        "value": 101295802
+      },
+      {
+        "time": 1702341605,
+        "value": 101408156
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265660,
+        "value": 113475139
+      },
+      {
+        "time": 1702341605,
+        "value": 113577258
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265660,
+        "value": 682125
+      },
+      {
+        "time": 1702341605,
+        "value": 684901
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265660,
+        "value": 1004
+      },
+      {
+        "time": 1702341605,
+        "value": 1005
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265660,
+        "value": 2156
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265660,
+        "value": 0
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265660,
+        "value": 87
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265660,
+        "value": 502773
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2492,
+    "obstaclesRemoved": 974,
+    "kingLevel": 50,
+    "queenLevel": 43,
+    "wardenLevel": 11
+  },
+  "#8G8RC8YU": {
+    "name": "358",
+    "firstSeen": 1702265661,
+    "lastSeen": 1702347121,
+    "lastQueried": 1702360908,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+    "townHallLevel": [
+      {
+        "time": 1702265661,
+        "value": 13
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265661,
+        "value": 2172
+      },
+      {
+        "time": 1702341605,
+        "value": 2203
+      },
+      {
+        "time": 1702347121,
+        "value": 2188
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265661,
+        "value": 157
+      },
+      {
+        "time": 1702341605,
+        "value": 158
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265661,
+        "value": 339603605
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265661,
+        "value": 346965477
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265661,
+        "value": 2211080
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265661,
+        "value": 1289
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265661,
+        "value": 5100
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265661,
+        "value": 325
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265661,
+        "value": 194
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265661,
+        "value": 15960
+      }
+    ],
+    "builderHallLevel": 10,
+    "builderBaseTrophies": 3166,
+    "obstaclesRemoved": 7136,
+    "kingLevel": 20,
+    "queenLevel": 24,
+    "wardenLevel": 14
+  },
+  "#QUJ0P2R": {
+    "name": "maxmax",
+    "firstSeen": 1702265662,
+    "lastSeen": 1702265662,
+    "lastQueried": 1702360910,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265662,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265662,
+        "value": 2165
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265662,
+        "value": 123
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265662,
+        "value": 183693498
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265662,
+        "value": 186745565
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265662,
+        "value": 1016529
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265662,
+        "value": 686
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265662,
+        "value": 4153
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265662,
+        "value": 6100
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265662,
+        "value": 140
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265662,
+        "value": 32300
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2113,
+    "obstaclesRemoved": 4155,
+    "kingLevel": 42,
+    "queenLevel": 44,
+    "wardenLevel": 16
+  },
+  "#9VYR988YQ": {
+    "name": "SUPER NOVA",
+    "firstSeen": 1702265662,
+    "lastSeen": 1702265662,
+    "lastQueried": 1702360911,
+    "role": "member",
+    "leagueImage": null,
+    "townHallLevel": [
+      {
+        "time": 1702265662,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265662,
+        "value": 2164
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265662,
+        "value": 146
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265662,
+        "value": 363357614
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265662,
+        "value": 383320436
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265662,
+        "value": 2064154
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265662,
+        "value": 1424
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265662,
+        "value": 18160
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265662,
+        "value": 11485
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265662,
+        "value": 535
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265662,
+        "value": 191089
+      }
+    ],
+    "builderHallLevel": 8,
+    "builderBaseTrophies": 2983,
+    "obstaclesRemoved": 5474,
+    "kingLevel": 43,
+    "queenLevel": 46,
+    "wardenLevel": 15
+  },
+  "#28JGVUV8Q": {
+    "name": "AwesomeAdog",
+    "firstSeen": 1702265663,
+    "lastSeen": 1702345791,
+    "lastQueried": 1702360912,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265663,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265663,
+        "value": 2076
+      },
+      {
+        "time": 1702345791,
+        "value": 2086
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265663,
+        "value": 122
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265663,
+        "value": 107434612
+      },
+      {
+        "time": 1702345791,
+        "value": 107812684
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265663,
+        "value": 113473170
+      },
+      {
+        "time": 1702345791,
+        "value": 114089063
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265663,
+        "value": 812031
+      },
+      {
+        "time": 1702345791,
+        "value": 815655
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265663,
+        "value": 488
+      },
+      {
+        "time": 1702345791,
+        "value": 489
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265663,
+        "value": 357
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265663,
+        "value": 1200
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265663,
+        "value": 46
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265663,
+        "value": 7924
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 1960,
+    "obstaclesRemoved": 5352,
+    "kingLevel": 45,
+    "queenLevel": 43,
+    "wardenLevel": 20
+  },
+  "#29Y0CG9U9": {
+    "name": "Pedi",
+    "firstSeen": 1702265664,
+    "lastSeen": 1702350096,
+    "lastQueried": 1702360916,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265664,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265664,
+        "value": 2032
+      },
+      {
+        "time": 1702341607,
+        "value": 1981
+      },
+      {
+        "time": 1702348154,
+        "value": 1960
+      },
+      {
+        "time": 1702348508,
+        "value": 1992
+      },
+      {
+        "time": 1702350096,
+        "value": 1985
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265664,
+        "value": 125
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265664,
+        "value": 376360799
+      },
+      {
+        "time": 1702348508,
+        "value": 376455999
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265664,
+        "value": 391924832
+      },
+      {
+        "time": 1702348154,
+        "value": 392144330
+      },
+      {
+        "time": 1702348508,
+        "value": 392261766
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265664,
+        "value": 1532821
+      },
+      {
+        "time": 1702348154,
+        "value": 1535921
+      },
+      {
+        "time": 1702348508,
+        "value": 1539849
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265664,
+        "value": 1504
+      },
+      {
+        "time": 1702348508,
+        "value": 1505
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265664,
+        "value": 20834
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265664,
+        "value": 3500
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265664,
+        "value": 64
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265664,
+        "value": 77739
+      },
+      {
+        "time": 1702341607,
+        "value": 92694
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 2330,
+    "obstaclesRemoved": 4921,
+    "kingLevel": 40,
+    "queenLevel": 47,
+    "wardenLevel": 17
+  },
+  "#98GJUVVG8": {
+    "name": "Mazter_Galax",
+    "firstSeen": 1702265665,
+    "lastSeen": 1702265665,
+    "lastQueried": 1702360914,
+    "role": "member",
+    "leagueImage": null,
+    "townHallLevel": [
+      {
+        "time": 1702265665,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265665,
+        "value": 2000
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265665,
+        "value": 127
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265665,
+        "value": 536842547
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265665,
+        "value": 487498309
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265665,
+        "value": 2928035
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265665,
+        "value": 1319
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265665,
+        "value": 2766
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265665,
+        "value": 16275
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265665,
+        "value": 70
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265665,
+        "value": 1300
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 2057,
+    "obstaclesRemoved": 2951,
+    "kingLevel": 46,
+    "queenLevel": 48,
+    "wardenLevel": 12
+  },
+  "#GPQY8PYPR": {
+    "name": "angel",
+    "firstSeen": 1702265665,
+    "lastSeen": 1702347130,
+    "lastQueried": 1702360917,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265665,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265665,
+        "value": 1991
+      },
+      {
+        "time": 1702341607,
+        "value": 1975
+      },
+      {
+        "time": 1702347130,
+        "value": 1970
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265665,
+        "value": 90
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265665,
+        "value": 250181530
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265665,
+        "value": 259594378
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265665,
+        "value": 1584658
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265665,
+        "value": 483
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265665,
+        "value": 168
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265665,
+        "value": 4400
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265665,
+        "value": 111
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265665,
+        "value": 259627
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 1739,
+    "obstaclesRemoved": 658,
+    "kingLevel": 39,
+    "queenLevel": 32,
+    "wardenLevel": null
+  },
+  "#LGJQL0JU9": {
+    "name": "DARK NIGHT",
+    "firstSeen": 1702265666,
+    "lastSeen": 1702347127,
+    "lastQueried": 1702360915,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265666,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265666,
+        "value": 1991
+      },
+      {
+        "time": 1702341606,
+        "value": 2015
+      },
+      {
+        "time": 1702347127,
+        "value": 1996
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265666,
+        "value": 107
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265666,
+        "value": 206950984
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265666,
+        "value": 231824292
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265666,
+        "value": 1219834
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265666,
+        "value": 734
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265666,
+        "value": 618
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265666,
+        "value": 19945
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265666,
+        "value": 212
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265666,
+        "value": 205248
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2481,
+    "obstaclesRemoved": 1619,
+    "kingLevel": 40,
+    "queenLevel": 41,
+    "wardenLevel": 6
+  },
+  "#8VURR0YRV": {
+    "name": "Purple Pekka",
+    "firstSeen": 1702265667,
+    "lastSeen": 1702341606,
+    "lastQueried": 1702360913,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265667,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265667,
+        "value": 1986
+      },
+      {
+        "time": 1702341606,
+        "value": 2014
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265667,
+        "value": 133
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265667,
+        "value": 194547085
+      },
+      {
+        "time": 1702341606,
+        "value": 195057095
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265667,
+        "value": 207468463
+      },
+      {
+        "time": 1702341606,
+        "value": 208316195
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265667,
+        "value": 1175506
+      },
+      {
+        "time": 1702341606,
+        "value": 1183091
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265667,
+        "value": 1254
+      },
+      {
+        "time": 1702341606,
+        "value": 1255
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265667,
+        "value": 3171
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265667,
+        "value": 14235
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265667,
+        "value": 304
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265667,
+        "value": 343481
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2416,
+    "obstaclesRemoved": 7204,
+    "kingLevel": 47,
+    "queenLevel": 48,
+    "wardenLevel": 20
+  },
+  "#YUGP2Y8GC": {
+    "name": "PhillieCheese",
+    "firstSeen": 1702265668,
+    "lastSeen": 1702355226,
+    "lastQueried": 1702360914,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+    "townHallLevel": [
+      {
+        "time": 1702265668,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265668,
+        "value": 1946
+      },
+      {
+        "time": 1702341607,
+        "value": 1968
+      },
+      {
+        "time": 1702345794,
+        "value": 1986
+      },
+      {
+        "time": 1702347129,
+        "value": 1975
+      },
+      {
+        "time": 1702355226,
+        "value": 2006
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265668,
+        "value": 112
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265668,
+        "value": 103212942
+      },
+      {
+        "time": 1702341607,
+        "value": 104140150
+      },
+      {
+        "time": 1702345794,
+        "value": 104335827
+      },
+      {
+        "time": 1702355226,
+        "value": 104437577
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265668,
+        "value": 122032137
+      },
+      {
+        "time": 1702341607,
+        "value": 122930580
+      },
+      {
+        "time": 1702345794,
+        "value": 123131257
+      },
+      {
+        "time": 1702355226,
+        "value": 123286818
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265668,
+        "value": 588544
+      },
+      {
+        "time": 1702341607,
+        "value": 595259
+      },
+      {
+        "time": 1702345794,
+        "value": 597409
+      },
+      {
+        "time": 1702355226,
+        "value": 599912
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265668,
+        "value": 470
+      },
+      {
+        "time": 1702341607,
+        "value": 472
+      },
+      {
+        "time": 1702345794,
+        "value": 473
+      },
+      {
+        "time": 1702355226,
+        "value": 474
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265668,
+        "value": 947
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265668,
+        "value": 31150
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265668,
+        "value": 105
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265668,
+        "value": 112683
+      }
+    ],
+    "builderHallLevel": 6,
+    "builderBaseTrophies": 1645,
+    "obstaclesRemoved": 3353,
+    "kingLevel": 39,
+    "queenLevel": 37,
+    "wardenLevel": 15
+  },
+  "#YLV98GPGJ": {
+    "name": "N0t__K3NNE",
+    "firstSeen": 1702265669,
+    "lastSeen": 1702265669,
+    "lastQueried": 1702360918,
+    "role": "member",
+    "leagueImage": null,
+    "townHallLevel": [
+      {
+        "time": 1702265669,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265669,
+        "value": 1934
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265669,
+        "value": 127
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265669,
+        "value": 79877028
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265669,
+        "value": 79763204
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265669,
+        "value": 465802
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265669,
+        "value": 477
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265669,
+        "value": 2330
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265669,
+        "value": 14790
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265669,
+        "value": 66
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265669,
+        "value": 226058
+      }
+    ],
+    "builderHallLevel": 9,
+    "builderBaseTrophies": 2718,
+    "obstaclesRemoved": 2676,
+    "kingLevel": 34,
+    "queenLevel": 36,
+    "wardenLevel": 16
+  },
+  "#LG8RG9YGC": {
+    "name": "gabetheboss",
+    "firstSeen": 1702265670,
+    "lastSeen": 1702265670,
+    "lastQueried": 1702360918,
+    "role": "member",
+    "leagueImage": null,
+    "townHallLevel": [
+      {
+        "time": 1702265670,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265670,
+        "value": 1926
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265670,
+        "value": 112
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265670,
+        "value": 144968573
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265670,
+        "value": 146631346
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265670,
+        "value": 835324
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265670,
+        "value": 502
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265670,
+        "value": 99
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265670,
+        "value": 1025
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265670,
+        "value": 9
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265670,
+        "value": 337696
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2014,
+    "obstaclesRemoved": 674,
+    "kingLevel": 38,
+    "queenLevel": 41,
+    "wardenLevel": 20
+  },
+  "#2YQ8YV2C2": {
+    "name": "javier",
+    "firstSeen": 1702265670,
+    "lastSeen": 1702265670,
+    "lastQueried": 1702360919,
+    "role": "member",
+    "leagueImage": null,
+    "townHallLevel": [
+      {
+        "time": 1702265670,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265670,
+        "value": 1916
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265670,
+        "value": 137
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265670,
+        "value": 232287226
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265670,
+        "value": 253155594
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265670,
+        "value": 1267778
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265670,
+        "value": 1338
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265670,
+        "value": 22858
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265670,
+        "value": 11770
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265670,
+        "value": 774
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265670,
+        "value": 2500
+      }
+    ],
+    "builderHallLevel": 8,
+    "builderBaseTrophies": 2222,
+    "obstaclesRemoved": 5572,
+    "kingLevel": 56,
+    "queenLevel": 53,
+    "wardenLevel": 21
+  },
+  "#2YJ0QL908": {
+    "name": "Hunter smith",
+    "firstSeen": 1702265671,
+    "lastSeen": 1702265671,
+    "lastQueried": 1702360920,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+    "townHallLevel": [
+      {
+        "time": 1702265671,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265671,
+        "value": 1890
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265671,
+        "value": 134
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265671,
+        "value": 249913977
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265671,
+        "value": 276575570
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265671,
+        "value": 1604288
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265671,
+        "value": 1150
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265671,
+        "value": 5455
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265671,
+        "value": 600
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265671,
+        "value": 244
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265671,
+        "value": 6610
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2538,
+    "obstaclesRemoved": 9674,
+    "kingLevel": 34,
+    "queenLevel": 44,
+    "wardenLevel": 13
+  },
+  "#9CGPL982P": {
+    "name": "streng6",
+    "firstSeen": 1702265672,
+    "lastSeen": 1702265672,
+    "lastQueried": 1702360921,
+    "role": "member",
+    "leagueImage": null,
+    "townHallLevel": [
+      {
+        "time": 1702265672,
+        "value": 11
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265672,
+        "value": 1818
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265672,
+        "value": 110
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265672,
+        "value": 204137801
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265672,
+        "value": 216868871
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265672,
+        "value": 1587820
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265672,
+        "value": 438
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265672,
+        "value": 1938
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265672,
+        "value": 3050
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265672,
+        "value": 51
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265672,
+        "value": 199685
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2354,
+    "obstaclesRemoved": 1287,
+    "kingLevel": 42,
+    "queenLevel": 42,
+    "wardenLevel": 13
+  },
+  "#82CGPGVJ": {
+    "name": "XxSonnyBunnyxX",
+    "firstSeen": 1702265672,
+    "lastSeen": 1702341609,
+    "lastQueried": 1702360921,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+    "townHallLevel": [
+      {
+        "time": 1702265672,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265672,
+        "value": 1646
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265672,
+        "value": 143
+      },
+      {
+        "time": 1702341609,
+        "value": 144
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265672,
+        "value": 224003792
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265672,
+        "value": 227770931
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265672,
+        "value": 1140170
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265672,
+        "value": 1150
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265672,
+        "value": 35732
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265672,
+        "value": 28815
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265672,
+        "value": 371
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265672,
+        "value": 183845
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2468,
+    "obstaclesRemoved": 4818,
+    "kingLevel": 43,
+    "queenLevel": 44,
+    "wardenLevel": 17
+  },
+  "#CPRUGG9U": {
+    "name": "Gabe",
+    "firstSeen": 1702265673,
+    "lastSeen": 1702341609,
+    "lastQueried": 1702360922,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/nvrBLvCK10elRHmD1g9w5UU1flDRMhYAojMB2UbYfPs.png",
+    "townHallLevel": [
+      {
+        "time": 1702265673,
+        "value": 12
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265673,
+        "value": 1235
+      },
+      {
+        "time": 1702341609,
+        "value": 1241
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265673,
+        "value": 114
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265673,
+        "value": 361953589
+      },
+      {
+        "time": 1702341609,
+        "value": 364396695
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265673,
+        "value": 356831239
+      },
+      {
+        "time": 1702341609,
+        "value": 359132875
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265673,
+        "value": 2636682
+      },
+      {
+        "time": 1702341609,
+        "value": 2655076
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265673,
+        "value": 796
+      },
+      {
+        "time": 1702341609,
+        "value": 799
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265673,
+        "value": 752
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265673,
+        "value": 12300
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265673,
+        "value": 82
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265673,
+        "value": 305779
+      }
+    ],
+    "builderHallLevel": 7,
+    "builderBaseTrophies": 2430,
+    "obstaclesRemoved": 1889,
+    "kingLevel": 21,
+    "queenLevel": 29,
+    "wardenLevel": 13
+  },
+  "#QLP82V8QP": {
+    "name": "Dici 2",
+    "firstSeen": 1702265674,
+    "lastSeen": 1702265674,
+    "lastQueried": 1702360923,
+    "role": "member",
+    "leagueImage": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+    "townHallLevel": [
+      {
+        "time": 1702265674,
+        "value": 9
+      }
+    ],
+    "trophies": [
+      {
+        "time": 1702265674,
+        "value": 893
+      }
+    ],
+    "expLevel": [
+      {
+        "time": 1702265674,
+        "value": 64
+      }
+    ],
+    "goldLooted": [
+      {
+        "time": 1702265674,
+        "value": 19774301
+      }
+    ],
+    "elixirLooted": [
+      {
+        "time": 1702265674,
+        "value": 19131171
+      }
+    ],
+    "darkElixirLooted": [
+      {
+        "time": 1702265674,
+        "value": 25784
+      }
+    ],
+    "battlesWon": [
+      {
+        "time": 1702265674,
+        "value": 104
+      }
+    ],
+    "reinforcementsDonated": [
+      {
+        "time": 1702265674,
+        "value": 27
+      }
+    ],
+    "clanGamePoints": [
+      {
+        "time": 1702265674,
+        "value": 0
+      }
+    ],
+    "warStars": [
+      {
+        "time": 1702265674,
+        "value": 5
+      }
+    ],
+    "clanCapitalContributions": [
+      {
+        "time": 1702265674,
+        "value": 4100
+      }
+    ],
+    "builderHallLevel": 4,
+    "builderBaseTrophies": 1135,
+    "obstaclesRemoved": 862,
+    "kingLevel": 10,
+    "queenLevel": 1,
+    "wardenLevel": null
+  }
+}
