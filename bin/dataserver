@@ -4,7 +4,7 @@ set -Eeuo pipefail
 
 start() {
     set +o pipefail
-    NPROCS=$(pgrep -f "python main.py" | wc -l)
+    NPROCS=$(pgrep -f "python3 main.py" | wc -l)
     set -o pipefail
     if [ "$NPROCS" -gt 0 ]; then
         echo "Data server already running"
@@ -12,19 +12,19 @@ start() {
     fi
     echo "Starting data server..."
     mkdir -p log
-    rm -f log/search.log
+    rm -f log/dataserver.log
     cd dataserver || exit
-    python main.py &> "../log/search.log" &
+    python3 main.py >> ../log/dataserver.log 2>&1 &
 }
 
 stop() {
     echo "Stopping data server..."
-    pkill -f "python main.py" || true
+    pkill -f "python3 main.py" || true
 }
 
 status() {
     set +o pipefail
-    NPROCS=$(pgrep -f "python main.py" | wc -l)
+    NPROCS=$(pgrep -f "python3 main.py" | wc -l)
     set -o pipefail
     if [ "$NPROCS" -gt 0 ]; then
         echo "Data server is running"
