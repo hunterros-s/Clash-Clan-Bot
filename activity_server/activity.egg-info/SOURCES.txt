@@ -1,0 +1,7 @@
+pyproject.toml
+activity/__init__.py
+activity.egg-info/PKG-INFO
+activity.egg-info/SOURCES.txt
+activity.egg-info/dependency_links.txt
+activity.egg-info/requires.txt
+activity.egg-info/top_level.txt
