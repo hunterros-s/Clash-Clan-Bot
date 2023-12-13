@@ -1,0 +1,59 @@
+#!/bin/bash
+
+set -Eeuo pipefail
+
+start() {
+    # Check if the data server is already running
+    ./bin/dataserver status
+
+    echo "Starting activity server ..."
+    mkdir -p log
+    rm -f log/activity.log
+    flask --app activity run --host 0.0.0.0 --port 8001 &> "log/activiy.log" &
+}
+
+stop() {
+    echo "Stopping activity server ..."
+    pkill -f 'flask --app activity run --host 0.0.0.0 --port 8001' || true
+}
+
+status() {
+    set +o pipefail
+    NPROCS=$(pgrep -f "flask --app activity run --host 0.0.0.0 --port 8001" | wc -l)
+    set -o pipefail
+
+    if [ "$NPROCS" -eq 1 ]; then
+        echo "Activity server is running."
+        exit 0
+    elif [ "$NPROCS" -eq 0 ]; then
+        echo "Activity server is not running."
+        exit 1
+    else
+        echo "Activity server error: found ${NPROCS} processes, expected 1."
+        exit 2
+    fi
+}
+
+
+case "$1" in
+    start)
+        start
+        ;;
+    stop)
+        stop
+        ;;
+    restart)
+        echo "Restarting activity server ..."
+        stop
+        start
+        ;;
+    status)
+        status
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+        ;;
+esac
+
+exit 0
